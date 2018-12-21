@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'ru-ru'
 
-TIME_ZONE = 'UTC+2'
+TIME_ZONE = 'Europe/Kiev'
 
 USE_I18N = True
 
